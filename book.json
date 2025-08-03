@@ -1,0 +1,45 @@
+{
+  "title": "电路分析课程讲义",
+  "description": "从电路原理到工程应用的完整学习路径",
+  "author": "Circuit Analysis Tutorial Team",
+  "language": "zh-hans",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "search",
+    "highlight",
+    "sharing",
+    "fontsettings",
+    "theme-default",
+    "expandable-chapters",
+    "copy-code-button",
+    "back-to-top-button"
+  ],
+  "pluginsConfig": {
+    "search": {
+      "maxIndexSize": 100000,
+      "ignoreCase": true
+    },
+    "sharing": {
+      "facebook": true,
+      "twitter": true,
+      "google": false,
+      "weibo": false,
+      "instapaper": false,
+      "vk": false,
+      "all": [
+        "facebook", "google", "twitter", "weibo", "instapaper"
+      ]
+    },
+    "fontsettings": {
+      "theme": "white",
+      "family": "sans",
+      "size": 2
+    },
+    "theme-default": {
+      "showLevel": true
+    }
+  }
+} 
