@@ -30,29 +30,41 @@
 ## 📚 章节目录
 
 ### 第一部分：电路基础（第1-4章）
-- [第1章：电路基础与电学单位](chapters/chapter1.md)
-- [第2章：欧姆定律与串并联电路](chapters/chapter2.md)
-- [第3章：基尔霍夫定律（KVL/KCL）](chapters/chapter3.md)
-- [第4章：电阻网络与等效变换](chapters/chapter4.md)
+- [第1章：电路基础与电学单位](chapters/chapter1.md) | [在线阅读](https://xde1997.github.io/Tutorial_ElectroCircuit/#/chapters/chapter1)
+- [第2章：欧姆定律与串并联电路](chapters/chapter2.md) | [在线阅读](https://xde1997.github.io/Tutorial_ElectroCircuit/#/chapters/chapter2)
+- [第3章：基尔霍夫定律（KVL/KCL）](chapters/chapter3.md) | [在线阅读](https://xde1997.github.io/Tutorial_ElectroCircuit/#/chapters/chapter3)
+- [第4章：电阻网络与等效变换](chapters/chapter4.md) | [在线阅读](https://xde1997.github.io/Tutorial_ElectroCircuit/#/chapters/chapter4)
 
 ### 第二部分：动态电路分析（第5-6章）
-- [第5章：电容、电感基础与暂态响应](chapters/chapter5.md)
-- [第6章：一阶RC/RL电路动态分析](chapters/chapter6.md)
+- [第5章：电容、电感基础与暂态响应](chapters/chapter5.md) | [在线阅读](https://xde1997.github.io/Tutorial_ElectroCircuit/#/chapters/chapter5)
+- [第6章：一阶RC/RL电路动态分析](chapters/chapter6.md) | [在线阅读](https://xde1997.github.io/Tutorial_ElectroCircuit/#/chapters/chapter6)
 
 ### 第三部分：交流电路分析（第7-9章）
-- [第7章：正弦交流信号与相量表示](chapters/chapter7.md)
-- [第8章：RLC交流电路与阻抗分析](chapters/chapter8.md)
-- [第9章：交流功率与功率因数校正](chapters/chapter9.md)
+- [第7章：正弦交流信号与相量表示](chapters/chapter7.md) | [在线阅读](https://xde1997.github.io/Tutorial_ElectroCircuit/#/chapters/chapter7)
+- [第8章：RLC交流电路与阻抗分析](chapters/chapter8.md) | [在线阅读](https://xde1997.github.io/Tutorial_ElectroCircuit/#/chapters/chapter8)
+- [第9章：交流功率与功率因数校正](chapters/chapter9.md) | [在线阅读](https://xde1997.github.io/Tutorial_ElectroCircuit/#/chapters/chapter9)
 
 ### 第四部分：有源电路与器件（第10-12章）
-- [第10章：运算放大器基础与典型电路](chapters/chapter10.md)
-- [第11章：半导体器件（Diode, BJT, MOSFET）](chapters/chapter11.md)
-- [第12章：放大器与偏置电路设计](chapters/chapter12.md)
+- [第10章：运算放大器基础与典型电路](chapters/chapter10.md) | [在线阅读](https://xde1997.github.io/Tutorial_ElectroCircuit/#/chapters/chapter10)
+- [第11章：半导体器件（Diode, BJT, MOSFET）](chapters/chapter11.md) | [在线阅读](https://xde1997.github.io/Tutorial_ElectroCircuit/#/chapters/chapter11)
+- [第12章：放大器与偏置电路设计](chapters/chapter12.md) | [在线阅读](https://xde1997.github.io/Tutorial_ElectroCircuit/#/chapters/chapter12)
 
 ### 第五部分：应用电路设计（第13-15章）
-- [第13章：滤波器设计基础（低通、高通、带通）](chapters/chapter13.md)
-- [第14章：电源与稳压电路（线性与开关电源）](chapters/chapter14.md)
-- [第15章：电路设计项目与案例集（综合应用）](chapters/chapter15.md)
+- [第13章：滤波器设计基础（低通、高通、带通）](chapters/chapter13.md) | [在线阅读](https://xde1997.github.io/Tutorial_ElectroCircuit/#/chapters/chapter13)
+- [第14章：电源与稳压电路（线性与开关电源）](chapters/chapter14.md) | [在线阅读](https://xde1997.github.io/Tutorial_ElectroCircuit/#/chapters/chapter14)
+- [第15章：电路设计项目与案例集（综合应用）](chapters/chapter15.md) | [在线阅读](https://xde1997.github.io/Tutorial_ElectroCircuit/#/chapters/chapter15)
+
+---
+
+## 🌐 在线版本
+
+📖 **GitBook在线版本**：[https://xde1997.github.io/Tutorial_ElectroCircuit/](https://xde1997.github.io/Tutorial_ElectroCircuit/)
+
+推荐使用在线版本获得更好的阅读体验，包括：
+- 响应式设计，支持各种设备
+- 搜索功能
+- 目录导航
+- 代码高亮显示
 
 ---
 
@@ -118,7 +130,7 @@
 
 ## 🚀 开始学习
 
-现在您已经了解了课程的整体结构和使用方法。建议从[第1章：电路基础与电学单位](chapter1.md)开始您的学习之旅。
+现在您已经了解了课程的整体结构和使用方法。建议从[第1章：电路基础与电学单位](chapters/chapter1.md)开始您的学习之旅。
 
 记住：电路分析是一门需要大量练习的学科，理论结合实践是掌握这门课程的关键。祝您学习愉快！
 
